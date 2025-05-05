@@ -1,0 +1,1 @@
+CREATE a .env file with a field API_KEY, further for one of the programs you will need a TAVILY_API_KEY. For the API_KEY go to groq, and create one and set it to the variable in your environment file.
