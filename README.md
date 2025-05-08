@@ -49,7 +49,7 @@ CREATE a .env file with a field API_KEY, further for one of the programs you wil
 Once your virtual environment is active, install the libraries used in this project:
 
 ```bash
-pip install langchain langchain_groq python-dotenv pydantic requests
+pip install langchain langgraph langchain_groq python-dotenv pydantic requests
 ```
 
 * **langchain**: Core agent and chain framework
