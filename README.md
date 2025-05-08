@@ -53,6 +53,7 @@ pip install langchain langchain_groq python-dotenv pydantic requests
 ```
 
 * **langchain**: Core agent and chain framework
+* **langgraph**: Core agent and chain framework
 * **langchain\_groq**: Groq-hosted model integration
 * **python-dotenv**: Loading environment variables from `.env`
 * **pydantic**: Structured tool schemas
